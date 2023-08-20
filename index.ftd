@@ -170,10 +170,10 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Neel,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: fullstack
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
@@ -192,7 +192,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:hello@and249.codes
 
 -- button.primary:
 title: Schedule a Meeting
